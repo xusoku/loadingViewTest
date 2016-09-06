@@ -1,2 +1,2 @@
 # loadingViewTest
-![](./pic/pic1_50.png =100x100)
+![](https://github.com/xusoku/loadingViewTest/blob/master/Picture.gif)
